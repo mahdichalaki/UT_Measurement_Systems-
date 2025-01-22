@@ -23,6 +23,10 @@ The course explores various aspects of measurement systems, focusing on:
   - Design and implementation of analog and digital circuits
   - Operational amplifiers for signal conditioning
   - Voltage dividers and analog-to-digital conversion (ADC)
+  
+<p align="center">
+  <img src="Arduino.png" alt="Arduino" width="500">
+</p>
 
 ---
 
@@ -55,6 +59,9 @@ Throughout the course, practical measurement techniques were implemented using *
   5. **Temperature Measurement System:**  
      - Designing a thermistor-based temperature sensor and calibrating it with reference values.
 
+<p align="center">
+  <img src="Signal.png" alt="Signal" width="500">
+</p>
 ---
 
 ## ⚙️ Tools and Technologies Used
